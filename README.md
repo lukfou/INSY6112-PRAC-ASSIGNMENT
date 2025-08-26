@@ -99,3 +99,26 @@ The social media platform should use a NoSQL database, as discussed in this repo
 Question 2: 
 
 <img width="782" height="524" alt="Screenshot 2025-08-25 220007" src="https://github.com/user-attachments/assets/e12545f6-d8a8-4205-86eb-38516e2df341" />
+
+(MS Visio, 2025) 
+
+
+
+Reference List:
+Akamai (2022) What’s the value of a key-value store? Available at: https://www.akamai.com/blog/edge/whats-the-value-of-a-key-value-store (Accessed: 16 August 2025). 
+
+Apache Cassandra (2025) What is Apache Cassandra? Available at: https://cassandra.apache.org/_/index.html (Accessed: 16 August 2025). 
+
+Atlan (2025) Relational vs NoSQL databases: A detailed comparison. Available at: https://atlan.com/relational-database-vs-nosql (Accessed: 16 August 2025). 
+
+Curate Partners (2023) Exploring NoSQL databases: Flexible solutions for modern data challenges. Available at: https://curatepartners.com/blogs/skills-tools-platforms/exploring-nosql-databases-flexible-solutions-for-modern-data-challenges (Accessed: 16 August 2025). 
+
+Knowi (2025) Cassandra: What it is, how it works and what it’s used for. Available at: https://www.knowi.com/blog/cassandra-what-it-is-how-it-works-and-what-its-used-for (Accessed: 16 August 2025). 
+
+Lenovo (2025) Apache Cassandra glossary. Available at: https://www.lenovo.com/us/en/glossary/cassandra (Accessed: 16 August 2025). 
+
+Microsoft (2025) Visio. 
+
+MongoDB (2025) What is NoSQL? Available at: https://www.mongodb.com/resources/basics/databases/nosql-explained (Accessed: 16 August 2025). 
+
+Oracle (2025) Oracle NoSQL Database – Technical Overview. Available at: https://www.oracle.com/database/technologies/nosql/ (Accessed: 16 August 2025) 
