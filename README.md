@@ -105,6 +105,7 @@ Question 2:
 
 
 Reference List:
+
 Akamai (2022) What’s the value of a key-value store? Available at: https://www.akamai.com/blog/edge/whats-the-value-of-a-key-value-store (Accessed: 16 August 2025). 
 
 Apache Cassandra (2025) What is Apache Cassandra? Available at: https://cassandra.apache.org/_/index.html (Accessed: 16 August 2025). 
