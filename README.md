@@ -1,13 +1,12 @@
 # INSY6112-PRAC-ASSIGNMENT
 ST10443474 - Luke Fourie
 
-#Question One:#
-
+Question One:
 The rapid growth of social media platforms requires powerful data storage and management solution system. With millions of users creating varied and dynamic content like text, images, videos, likes, and comments, the database system needs to be capable of handling large quantities of both structured and unstructured data efficiently. This report recommends whether a relational or NoSQL database must be used for the platform. The discussion includes a definition of the recommended database type, motivations for which selection chosen, examples of data stored, types of NoSQL databases, and an analysis of the three Vs of Big Data. 
 
  
 
-##Recommendation of Database Type##
+Recommendation of Database Type
 
 A NoSQL database should be used by the social media network. A NoSQL database (Not Only SQL) is a non-relational database system that allows schema-less or semi-structured data to be stored. It is ideal for managing large amounts of and varied data demands because of its high performance, distributed data storage, and horizontal scalability (MongoDB, 2025; Akamai, 2022). 
 
@@ -98,3 +97,5 @@ The social media platform should use a NoSQL database, as discussed in this repo
  
 
 Question 2: 
+
+<img width="782" height="524" alt="Screenshot 2025-08-25 220007" src="https://github.com/user-attachments/assets/e12545f6-d8a8-4205-86eb-38516e2df341" />
